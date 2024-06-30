@@ -903,7 +903,7 @@ $databases['default']['default'] = array (
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_OPlqr1rPB5OBGNLvY9oXkL1cU9Hmzn1d04sx4tkt1B_8Ckpia90GqOk3o1TXykhTzJkRgM6U9g/sync';
-$settings['openai.api_key'] = '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';
+$settings['openai.api_key'] = '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_TEST';
 $settings['cors.config'] = [
   'enabled' => TRUE,
   'allowedHeaders' => ['Content-Type', 'Authorization', 'X-Requested-With'],
