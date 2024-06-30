@@ -1,0 +1,7 @@
+name: 'Evaluation Service'
+type: module
+description: 'Module to evaluate writing using OpenAI and communicate with other servers.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:rest
